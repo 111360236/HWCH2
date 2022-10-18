@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\alice\desktop\程式\hk1020\ch4.15\source\source.cpp(5): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\alice\desktop\程式\hk1020\ch4.15\source\source.cpp(9): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  CH4.15.vcxproj -> C:\Users\alice\Desktop\程式\HK1020\CH4.15\CH4.15\Debug\CH4.15.exe
